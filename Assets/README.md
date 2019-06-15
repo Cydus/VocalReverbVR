@@ -18,4 +18,4 @@ Tested on Unity 2017.4.5f1
 ---
 
 This software is available under the [MIT Lisence](https://opensource.org/licenses/MIT)
-Photon libraries are copyright© Valve Inc.
+Photon libraries are copyrightÂ© Valve Inc.
