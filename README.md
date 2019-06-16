@@ -2,6 +2,8 @@
 
 Vocal Reverb is a tool for Unity that allows an echo of users voice to be heard in a realistic way within the game environment.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cSgFKNirNWc/0.jpg)](https://www.youtube.com/watch?v=cSgFKNirNWc)
+
 As this is designed with VR in mind the Scene is setup for using with SteamVR.
 
 ## Usage
